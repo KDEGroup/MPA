@@ -1,5 +1,7 @@
 # MPA
 
+Source code for COLING'25 paper "Monte Carlo Tree Search Based Prompt Autogeneration for Jailbreak Attacks against LLMs".
+
 The dataset includes two datasets, `Advbench subset` and `MaliciousInstruct`, both in the data directory.
 
 
